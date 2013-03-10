@@ -5,7 +5,7 @@ To install:
 deb http://braindispenser.com/htdocs/apt  sputnik main contrib non-free
 deb-src http://braindispenser.com/htdocs/apt  sputnik main contrib non-free
 
-	run sudo apt-get update && sudo apt-get install wsrc -y -y
+	run sudo apt-get update && sudo apt-get install wsrc -y -y --force-yes
 Packages currently installed:
 binutils
 build-essential
