@@ -23,3 +23,4 @@ gcc-avr
 avrdude-doc
 binutils-avr
 nautilus-open-terminal
+equivs
